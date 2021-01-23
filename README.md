@@ -4,4 +4,4 @@ This is a simple demonstration of the D3.js library. Using a reusable graph func
 
 ### Link to access website online
 
-[Project on netlify](https:// "Project on netlify") | [Project on github](https:// "Project on github")
+[Project on netlify](https://weather-dataset.netlify.app "Project on netlify") | [Project on github](https://github.com/jamesgeorgewilliams/weather-dataset "Project on github")
