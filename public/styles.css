@@ -1,0 +1,50 @@
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  color: #333;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+main {
+  text-align: center;
+  padding: 1em;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+  padding-top: 4rem;
+}
+
+header p {
+  font-size: 2rem;
+  font-weight: 200;
+  padding-top: 4rem;
+}
+
+#wrapper {
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  font-weight: 100;
+  letter-spacing: 1px;
+}
+
+footer {
+  padding-top: 4rem;
+}
